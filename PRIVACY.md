@@ -2,7 +2,7 @@
 
 **Last Updated:** [Date]
 
-This privacy policy governs your use of the software application **Weelio** ("Application") for Meta Quest devices that was created by **[Your Name / Developer Name]**.
+This privacy policy governs your use of the software application **Weelio** ("Application") for Meta Quest devices that was created by **Code 61**.
 
 ## 1. Data Collection and Usage (VRC.Privacy.2 & VRC.Privacy.3)
 
@@ -32,4 +32,4 @@ Since we do not store your data on external servers, you have full control over 
 
 ## 4. Contact Information
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at **[Your Email Address]**.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at **wheeliothegame@gmail.com**.
